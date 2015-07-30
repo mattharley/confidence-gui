@@ -1,0 +1,73 @@
+
+## Total Number of Phones
+32 Huwei
+62 Sony
+---------
+94 phones total
+
+## Commands
+Prepare - Pull up the character screen
+Play - start playing the audio from the beginning
+Reset - stop audio but stay on the prepare screen. pressing play will begin playback from the beginning
+Pause - pause playback at the current point. Click resume to resume playback or reset to go back to the beginning
+Resume - resume a paused playback
+
+## Modes
+Audience - can select any ONE character at a time. can not change position of playback
+Character - can not change character. can not change position of playback. does not highlight the character until playback so use the writing on the back of the phone or do a test playback to determine which character is which
+Admin - can start/stop playback. if in prepare mode, will receive a play signal to begin playback. can select multiple characters at the same time to hear more than one audio track
+
+## Preparing Phones
+Huwei - If they fail to go into PREPARE: pull down the notification draw (you may have to turn the phone on and then off if you access the notification draw). Press the wifi button (wait until it turns green) and then CLOSE THE NOTIFICATION TRAY
+Huwei - load into the lock screen or home screen
+Sony - load until the language selection or the lock screen
+Check that all batteries are above ~70% charge
+
+### Prepare
+Turn PREPARE on
+Go around to each phone and check that they are in prepare mode, have not started playing and the screen is awake
+
+### Test Play
+Press Play
+Go to each phone and turn the volume up to around 3/4. You may get the "this will hurt your ears" warning. Press ok.
+Press Reset. This will stop playback and "rewind" the audio to the beginning
+
+## Beginning of Show
+Zoe does a speech for the characters
+Audience comes in
+Zoe does a speech for the audience
+Lights will be triggered from the lighting desk upstairs. 
+Wait until lighting / sound technician (Simon) is in place and that lighting and audio is queued to play.
+
+PLAYBACK WILL NOT START IF THE SCREEN OF THE PHONES IS DIMMED / OFF
+
+1. Ready Simon
+2. Standby
+3. 3.. 2... 1..
+4. Hit the play button
+
+### First 5 mins
+1. Keep headphones off for the first 5 minutes
+2. Look at characters first - if THEY DO NOT raise their hands you need to get them a new phone, switch it to performer mode and select their characters
+3. Look for audience members with their hands up. If they need a new phone, bring one to them and make sure it's set to audience mode. You can tell this by just clicking around the characters. 
+4. Check for phones with no headphones plugged in. There should be an eerie silene in the room
+
+## In Between Shows
+1. Press RESET
+2. Walk around and check that all phones are at 0 and that no characters are selected on the screen. Also check if any of the phones are in admin mode (you'll see a play and stop button). Finally, check that none of the phones have a flashing red light indicating that they're out of battery
+3. For those that are still playing or in admin mode, swap them out with one of the spares whilst you look at them more closely
+4. Put all of the swapped out phones into audience mode and press RESET again.
+5. If there's time, do another Test Play and repeat the preperation checks
+
+## Post-Show
+Make sure each phone is off.
+Plug each USB mini cable into the phone. 
+Place phones in the box in nice straight lines.
+Plug each USB plug into a charging slot.
+When a phone is charging, it's LED light on the front corner should light up. Green - full charge, Orange - half charge, Red - low charge, Flashing Red - critical charge
+Once all the phones are plugged in, inspect each one to ensure that they are charging and that the power is off. If you tap (not hold) the power button when a phone is charging, it should bring up the battery screen. Tap again to dim the screen. 
+If a phone is cycling between the battery screen, startup screen and dim screen, or the phone doesn't seem to be charging at all, remove the battery and the USB cable and wait for 5 seconds then replace them and try again. 
+
+The master USB plug (blue in the case of the big octopus) has to be plugged into a computer USB port for charging to occur!
+
+The little buttons with the LEDs on the USB hubs are power switches. Make sure they're all on!
