@@ -1,3 +1,7 @@
+## Setup
+apple airport: hipflask-airport downloadmyapp 10.x.x.x
+unifi: hipflask downloadmyapp (no dhcp)
+
 
 ## Total Number of Phones
 32 Huwei
